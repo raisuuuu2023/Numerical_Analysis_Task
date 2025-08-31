@@ -8,7 +8,7 @@ double func(double x)
 }
 double func_prime(double x)
 {
-    return 5*(x,4)-3;
+    return 5*pow(x,4)-3;
 }
 int main()
 {
